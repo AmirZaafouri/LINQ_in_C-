@@ -27,7 +27,7 @@ Dictionary<string, int> scores = new Dictionary<string, int>
 ```
 ## 🔸 Abstraction Phase – Intermediate Operations
 ![Java Stream vs C# LINQ](https://raw.githubusercontent.com/AmirZaafouri/Stream_in_JAVA/main/image-1.png)
-
+### All methode IEnumerable return type in JAVA stream:
 ```csharp
 // Example: Select cars that start with 'B' and convert to uppercase
 var query = carsList
